@@ -1,0 +1,31 @@
+{
+  "name": "subscribe_credit_address",
+  "version": "1.0.0",
+  "description": "Subscribe email on transaction on an credit address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aj07/credits_hack.git"
+  },
+  "author": "aj07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aj07/credits_hack/issues"
+  },
+  "homepage": "https://github.com/aj07/credits_hack.git#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "dotenv": "^6.2.0",
+    "email-validator": "^2.0.4",
+    "express": "^4.16.4",
+    "leveldown": "^4.0.1",
+    "levelup": "^4.0.0",
+    "mongoose": "^5.4.2",
+    "nodemailer": "^5.0.0",
+    "web3": "^1.0.0-beta.37"
+  }
+}
+

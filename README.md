@@ -1,4 +1,1 @@
-# credits_hack
-# credit_hack
-# credit_hack
-# credit_hack
+subscribe to email for transactions on an ethereum address
